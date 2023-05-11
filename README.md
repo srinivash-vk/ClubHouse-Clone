@@ -1,17 +1,23 @@
-# clubhouse
+# ClubHouse UI Clone
 
-A new Flutter project.
+To run this project: 
 
-## Getting Started
+# To install dependencies 
 
-This project is a starting point for a Flutter application.
+`flutter pub get`
 
-A few resources to get you started if this is your first Flutter project:
+# To run
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+`flutter build`
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# ClubHouse-Clone
+# Screen layout
+
+![Simulator Screen Shot - iPhone 13 - 2022-01-15 at 02 38 21](https://github.com/srinivash-vk/ClubHouse-UI-Clone/assets/67652658/37b4f85e-efa0-40a0-b5e7-ae76e0297112)
+
+![Simulator Screen Shot - iPhone 13 - 2022-01-17 at 15 06 25](https://github.com/srinivash-vk/ClubHouse-UI-Clone/assets/67652658/321037a3-ae02-426d-932a-d4d3f4e778bb)
+
+![Simulator Screen Shot - iPhone 13 - 2022-01-17 at 15 05 52](https://github.com/srinivash-vk/ClubHouse-UI-Clone/assets/67652658/eec01a61-9799-46ea-b1c7-40e7feea5621)
+
+![Simulator Screen Shot - iPhone 13 - 2022-01-17 at 15 06 36](https://github.com/srinivash-vk/ClubHouse-UI-Clone/assets/67652658/64ffce85-040d-4430-90d7-a646e938067e)
+
+![Simulator Screen Shot - iPhone 13 - 2022-01-17 at 15 06 15](https://github.com/srinivash-vk/ClubHouse-UI-Clone/assets/67652658/776c70b9-ccd9-4b6d-a291-7eccf0d59be6)
